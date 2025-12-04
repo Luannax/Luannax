@@ -2,16 +2,23 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luanna+Bahia+da+Silva;I'm+22+years+old;I+from+Brasil,+MT;I+study+Computer+Science+at+Unemat;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Luannax&show_icons=true&count_private=true&hide_border=true&title_color=993399&icon_color=993399&text_color=c9d1d9&bg_color=0d1117" alt="Luanna Bahia da Silva github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luannax&layout=compact&hide_border=true&title_color=993399&text_color=993399&bg_color=0d1117" />
-</div>
+```json
+{
+  "about": {
+    "name": "Luanna Bahia",
+    "role": "Fullstack Developer",
+    "studying": ["Computer Science", "React", "PHP"],
+    "location": "Brasil, MT"
+  },
+  "current_focus": "Preparing for TCC Defense 🎓"
+}
+```
 
 <!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Luannax&theme=gotham&hide_border=true&area=true)-->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Luannax&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+</p> -->
 
 <div align="center">  
 <a href="https://www.instagram.com/luannabahia_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
@@ -44,10 +51,12 @@
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
   
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Luannax}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Luannax&label=Profile%20Views&color=993399&style=flat" alt="Profile views" />
+  </p>
+  <br>
 </div>
-  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
