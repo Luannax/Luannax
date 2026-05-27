@@ -10,7 +10,7 @@
     "studying": ["Computer Science", "React", "PHP"],
     "location": "Brasil, MT"
   },
-  "current_focus": "Preparing for TCC Defense 🎓"
+  "current_focus": "Turning coffee ☕ into code and ideas into projects 🚀"
 }
 ```
 
