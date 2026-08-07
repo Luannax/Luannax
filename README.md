@@ -13,7 +13,7 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-993399?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannabahia/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luanna.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://luanna.devlb.com.br/)
 [![GitHub](https://img.shields.io/badge/GitHub-993399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luannax)
 
 </div>
@@ -205,10 +205,15 @@ Desenvolvendo leitura, escrita e conversação para contexto profissional e téc
 
 ## Let's connect 🚀
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Luanna%20Bahia-993399?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannabahia/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luanna.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://luanna.devlb.com.br/)
 
+[![LBS TECH](https://img.shields.io/badge/LBS%20TECH-Empresa%20de%20Tecnologia-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://lbstech.devlb.com.br/)
+
+</div>
 <br>
 
 💜 **Turning ideas into real-world applications.**
