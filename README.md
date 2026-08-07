@@ -1,62 +1,218 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=993399&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Luanna+Bahia+da+Silva;I'm+23+years+old;I+from+Brasil,+MT;I+study+Computer+Science+at+Unemat;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-```json
-{
-  "about": {
-    "name": "Luanna Bahia",
-    "role": "Fullstack Developer",
-    "studying": ["Computer Science", "React", "PHP"],
-    "location": "Brasil, MT"
-  },
-  "current_focus": "Turning coffee ☕ into code and ideas into projects 🚀"
-}
-```
-
-<!--![Contribution](https://activity-graph.herokuapp.com/graph?username=Luannax&theme=gotham&hide_border=true&area=true)-->
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luannax&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p> -->
-
-<div align="center">  
-<a href="https://www.instagram.com/luannabahia_/?hl=pt-br" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-</div>
-  
-
-### Core Skills:
-  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-  ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-  ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-  
-
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Netlifly](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=Vercel&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white) 
-
-  
-### Studying at the moment:
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-  
 <div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Luannax&label=Profile%20Views&color=993399&style=flat" alt="Profile views" />
-  </p>
-  <br>
+
+# 👩‍💻 Luanna
+
+### Full Stack Software Developer
+
+**React • TypeScript • JavaScript • PHP • Python • MySQL • APIs REST • Docker**
+
+📍 Mato Grosso, Brasil
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-993399?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannabahia/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luanna.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-993399?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Luannax)
+
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
+---
+
+## ✨ Sobre mim
+
+Sou **Desenvolvedora de Software Full Stack**, bacharel em Ciência da Computação pela **UNEMAT** e atualmente cursando pós-graduação em **Engenharia de Software**.
+
+Atuo profissionalmente no desenvolvimento e evolução de sistemas web corporativos e também desenvolvo soluções sob demanda para clientes reais.
+
+Minha experiência envolve desenvolvimento **front-end e back-end**, integração com APIs REST, bancos de dados, autenticação, regras de negócio e construção de aplicações responsivas.
+
+- 💻 Front-end com **React, TypeScript, JavaScript, Bootstrap e Tailwind CSS**
+- ⚙️ Back-end com **PHP, Python, FastAPI, Flask e Node.js**
+- 🗄️ Bancos de dados com **MySQL, PostgreSQL, Supabase e Firebase**
+- 🔗 Integração e desenvolvimento de **APIs REST**
+- 🐳 Desenvolvimento e ambientes com **Docker**
+- 🔧 Versionamento com **Git e GitHub**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🎨 Front-end
+
+<img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,tailwind,vite" />
+
+<br><br>
+
+### ⚙️ Back-end
+
+<img src="https://skillicons.dev/icons?i=php,python,flask,nodejs" />
+
+<br><br>
+
+### 🗄️ Banco de Dados & Serviços
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,supabase,firebase" />
+
+<br><br>
+
+### 🔧 DevOps & Ferramentas
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode,vercel" />
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🌱 Soma Agro
+
+Aplicação desenvolvida para uma empresa real do setor agro, com foco em presença digital, apresentação de produtos e experiência responsiva.
+
+**Stack**
+
+`React 19` `TypeScript` `TanStack` `Vite` `Tailwind CSS`
+
+<br>
+
+🔗 [Ver repositório](https://github.com/Luannax/soma-agro)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏢 Sistema de Gestão Empresarial
+
+Sistema desenvolvido como projeto freelancer para gerenciamento de clientes, pedidos, fornecedores, usuários, relatórios e indicadores.
+
+**Stack**
+
+`JavaScript` `Bootstrap` `PostgreSQL` `Supabase` `RLS`
+
+<br>
+
+🔗 [Ver repositório](https://github.com/Luannax/sistema_empresa)
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 💳 Integração Financeira Sicredi
+
+Projeto voltado à integração com APIs financeiras do Sicredi para gerenciamento de cobranças, PIX e boletos.
+
+**Stack**
+
+`JavaScript` `jQuery` `APIs REST` `Postman`
+
+<br>
+
+🔗 [Ver repositório](https://github.com/Luannax/Gestao-de-Boleto-Api-Sicredi)
+
+</td>
+
+<td width="50%" valign="top">
+
+### ♿ IDE Web Acessível
+
+Projeto voltado à acessibilidade na programação e utilização de recursos assistivos em ambiente de desenvolvimento web.
+
+**Stack**
+
+`JavaScript` `Node.js` `Web APIs` `Acessibilidade`
+
+<br>
+
+🔗 [Ver repositório](https://github.com/Luannax/Estagio-ideweb)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🔐 Projetos Profissionais Privados
+
+Nem todos os projetos em que trabalho possuem código público por envolverem clientes, empresas e regras de negócio específicas.
+
+### 🌿 Plataforma B2B de Gestão Ambiental
+
+Sistema para gerenciamento de processos ambientais, produtores, empresas, documentos e fluxos de avaliação.
+
+**Tecnologias**
+
+`Python` `FastAPI` `MySQL` `Pydantic` `APIs REST` `Docker`
+
+---
+
+### 🏥 Sistema de Gestão Clínica
+
+Sistema desenvolvido para gerenciamento de uma clínica de fisioterapia, incluindo pacientes, avaliações, evoluções clínicas, agenda e controle financeiro.
+
+**Tecnologias**
+
+`Python` `Flask` `SQLAlchemy` `MySQL` `JavaScript`
+
+---
+
+## 🎓 Formação
+
+🎓 **Bacharelado em Ciência da Computação**  
+UNEMAT — Universidade do Estado de Mato Grosso
+
+📚 **Pós-graduação em Engenharia de Software**  
+Faculdade Focus — Em andamento
+
+---
+
+## 📚 Atualmente estudando
+
+<div align="center">
+
+### ☁️ Cloud Computing • DevOps • CI/CD • GitHub Actions • Arquitetura de Software
+
+<br>
+
+### 🌎 Inglês
+
+Desenvolvendo leitura, escrita e conversação para contexto profissional e técnico.
+
+</div>
+
+---
+
+<div align="center">
+
+## 👀 Visitors Count
+
+<img src="https://komarev.com/ghpvc/?username=Luannax&label=PROFILE%20VIEWS&color=993399&style=for-the-badge" />
+
+<br><br>
+
+## Let's connect 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Luanna%20Bahia-993399?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luannabahia/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visitar-993399?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-luanna.vercel.app/)
+
+<br>
+
+💜 **Turning ideas into real-world applications.**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
